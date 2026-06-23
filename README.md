@@ -1,4 +1,4 @@
-<h1 align="center>Tanishttha Sehgal</h1>
+<h1 align="center">Tanishttha Sehgal</h1>
 <h3 align="center">AI/ML Engineer • Computer Vision • Generative AI • Full-Stack AI Systems<h3>
 <h3 align="center">Building production-ready AI applications using Machine Learning, Computer Vision, NLP, and Large Language Models.<h3>
 <h2>About Me</h2>
