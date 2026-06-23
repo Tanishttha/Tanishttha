@@ -5,10 +5,10 @@
 <p>Computer Engineering student at J.C. Bose University of Science & Technology, YMCA, passionate about Artificial Intelligence, Machine Learning, Computer Vision, and Generative AI.</p>
 <p>I enjoy building end-to-end AI systems that combine machine learning models, computer vision pipelines, large language models, and modern web technologies. My work focuses on solving real-world problems through intelligent, scalable, and user-centric AI solutions.</p>
 <h2>Technical Skills</h2>
-<h3>Programming Languages</h3>
-Python • C++ • C • JavaScript • SQL
-<h3>AI & Machine Learning</h3>
-Machine Learning • Deep Learning • Computer Vision • Natural Language Processing • Generative AI • Large Language Models • Feature Engineering • Ensemble Learning
+<h3>Programming Languages- Python • C++ • C • JavaScript • SQL</h3>
+
+<h3>AI & Machine Learning- Machine Learning • Deep Learning • Computer Vision • Natural Language Processing • Generative AI • Large Language Models • Feature Engineering • Ensemble Learning</h3>
+
 <h3>Frameworks & Libraries</h3>
 Scikit-learn • OpenCV • YOLOv8 • Pandas • NumPy • Flask • FastAPI • React.js
 <h3>Generative AI</h3>
