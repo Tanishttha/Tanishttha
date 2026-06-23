@@ -4,7 +4,7 @@
 <h2>About Me</h2>
 <p>Computer Engineering student at J.C. Bose University of Science & Technology, YMCA, passionate about Artificial Intelligence, Machine Learning, Computer Vision, and Generative AI.</p>
 <p>I enjoy building end-to-end AI systems that combine machine learning models, computer vision pipelines, large language models, and modern web technologies. My work focuses on solving real-world problems through intelligent, scalable, and user-centric AI solutions.</p>
-<h2>Technical Skills<h2>
+<h2>Technical Skills</h2>
 <h3>Programming Languages</h3>
 Python • C++ • C • JavaScript • SQL
 <h3>AI & Machine Learning</h3>
