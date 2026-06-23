@@ -80,6 +80,7 @@ Data Structures & Algorithms • Machine Learning • Intelligent Systems • Co
 * Full-Stack AI Systems
 * Production Machine Learning
 <h2>Connect</h2>
-Email: tanishtthasehgal@gmail.com
-LinkedIn: linkedin.com/in/tanishttha-sehgal-73555b287
-GitHub: github.com/Tanishttha
+
+* Email: tanishtthasehgal@gmail.com
+* LinkedIn: linkedin.com/in/tanishttha-sehgal-73555b287
+* GitHub: github.com/Tanishttha
